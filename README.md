@@ -22,7 +22,6 @@ Les données-source sont disponibles sur https://www.kaggle.com/datasets/moltean
   - **slideshow.pdf :** diapositives de présentation du projet
  
 
-
 ## Compétences développées
 
  * Modéliser des données dans un environnement Big Data et en utilisant les outils du Cloud
