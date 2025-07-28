@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](logo.PNG)
 
 # RÉALISER UN TRAITEMENT BIG DATA DANS UN ENVIRONNEMENT CLOUD
 
